@@ -16,6 +16,11 @@ Removes Youtube spam from a chosen subreddit.
 -   Edit conf.ini with your details
 -   Run it `python run.py`
 
+### General Info
+
+- Bot account needs to be admin of the subreddit
+- Not tested to a great degree at all
+
 #### Settings Info
 
 -   `reddit_target_subreddit` - Subreddit to remove spam
