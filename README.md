@@ -22,7 +22,7 @@ Removes Youtube spam from a chosen subreddit.
 - Written in about 15 minutes on a Sunday
 - Not tested to a great degree at all
 
-#### Settings Info
+### Settings Info
 
 -   `reddit_target_subreddit` - Subreddit to remove spam
 -   `submission_user_max` - Max user submissions to check for youtube spam
