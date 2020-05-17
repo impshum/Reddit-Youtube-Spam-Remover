@@ -19,6 +19,7 @@ Removes Youtube spam from a chosen subreddit.
 ### General Info
 
 - Bot account needs to be admin of the subreddit
+- Written in about 15 minutes on a Sunday
 - Not tested to a great degree at all
 
 #### Settings Info
