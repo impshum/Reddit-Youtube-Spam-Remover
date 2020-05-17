@@ -1,6 +1,13 @@
 ## Reddit Youtube Spam Remover
 
-Removes Youtube spam from a chosen subreddit
+Removes Youtube spam from a chosen subreddit.
+
+### How Does It Work?
+
+1. Streams submissions from subreddit
+2. Checks N user submissions for youtube links
+3. Counts duplicate titles over N submissions
+4. If spam count is high the submission is removed
 
 ### Instructions
 
